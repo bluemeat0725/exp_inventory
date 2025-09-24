@@ -1,5 +1,5 @@
 # Msal SSO 演示
-
+git clone -b sso --depth 1 https://github.com/bluemeat0725/exp_inventory.git msal_sso
 ## 环境配置
 1. 进入后端目录：
    ```bash
